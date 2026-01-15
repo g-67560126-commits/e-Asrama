@@ -1,0 +1,7 @@
+{
+  "name": "e-Asrama: Sistem Permohonan Keluar",
+  "description": "Sistem permohonan Pulang Bermalam, Outing, dan MC untuk pelajar asrama dengan dashboard kelulusan warden.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
